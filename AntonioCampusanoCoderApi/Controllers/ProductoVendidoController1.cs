@@ -7,8 +7,7 @@ using static AntonioCampusanoCoderApi.Controllers.ProductoVendidoController;
 
 namespace AntonioCampusanoCoderApi.Controllers
 {
-    public class ProductoVendidoController1 : Controller
-    {
+   
         [ApiController]
         [Route("[controller]")]
         public class ProductoVendidoController : Controller
